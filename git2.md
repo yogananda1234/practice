@@ -42,3 +42,7 @@ The github is also useful in downloading the git repositories in multiple system
 > git clone "--repo url--":  this command downloads the github repo to our local system.
 > git fetch: This command lets us get the latest branch from the remote repo to github. Only updates the branches does not modify files.
 > git pull: This command updates the changes, modify the files as well.
+
+for eg: fetch: download the updates but don't install it. like just show me the updates but don't change anything.
+        merge: commit the chnages and modify the files.
+        pull:  download the updates and install it and modify all the files.
