@@ -44,5 +44,5 @@ The github is also useful in downloading the git repositories in multiple system
 > git pull: This command updates the changes, modify the files as well.
 
 for eg: fetch: download the updates but don't install it. like just show me the updates but don't change anything.
-        merge: commit the chnages and modify the files.
+        merge: commit the changes and modify the files.
         pull:  download the updates and install it and modify all the files.
