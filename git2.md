@@ -34,4 +34,11 @@ And the important point to note is that github tracks the branching, and while w
 
 > git push origin master -f:  here "master" is the branch and "-f" means fore push the changes, this is important to push the changes to github to previous commit. 
 
-                                      
+> git branch -a: shows us all the branches present on the github repo
+> git switch "branch": this lets us switch to any branch we want to.
+
+The github is also useful in downloading the git repositories in multiple systems, there are certain commands to do so
+
+> git clone "--repo url--":  this command downloads the github repo to our local system.
+> git fetch: This command lets us get the latest branch from the remote repo to github. Only updates the branches does not modify files.
+> git pull: This command updates the changes, modify the files as well.
